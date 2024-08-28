@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ghayda Almalki.
+- 😄 Fresh Computer Science graduate from PNU.
+- 👀 Interested in Data Science, Machine Learning, and AI.
+- 🌱 Currently enhancing my AI skills through projects.
+- 💞 Looking to collaborate on innovative AI projects.
+- 📫 Reach me on LinkedIn: [Ghayda Almalki](https://www.linkedin.com/in/ghayda-a-almalki-4b1345219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
